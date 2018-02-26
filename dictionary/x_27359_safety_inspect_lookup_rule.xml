@@ -5,6 +5,7 @@
             <choice/>
         </element>
         <element label="Inspector" max_length="32" name="inspector" reference="sys_user" type="reference"/>
+        <element label="test1" max_length="180" name="test1" type="string"/>
         <index name="index">
             <element name="inspector"/>
         </index>
