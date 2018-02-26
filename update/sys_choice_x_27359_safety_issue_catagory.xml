@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="catagory" table="x_27359_safety_issue" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Big</label>
+            <language>en</language>
+            <name>x_27359_safety_issue</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 09:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44ecda1adb8013009e8cd7a0cf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 09:36:44</sys_updated_on>
+            <value>big</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Small</label>
+            <language>en</language>
+            <name>x_27359_safety_issue</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 09:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84ecda1adb8013009e8cd7a0cf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 09:36:44</sys_updated_on>
+            <value>small</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_27359_safety_issue</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 09:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0ecda1adb8013009e8cd7a0cf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 09:36:44</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>catagory</element>
+            <name>x_27359_safety_issue</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 09:36:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>40ecda1adb8013009e8cd7a0cf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>catagory</sys_name>
+            <sys_package display_value="Safety" source="x_27359_safety">43095e56db8013009e8cd7a0cf9619e0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Safety">43095e56db8013009e8cd7a0cf9619e0</sys_scope>
+            <sys_update_name>sys_choice_x_27359_safety_issue_catagory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 09:36:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

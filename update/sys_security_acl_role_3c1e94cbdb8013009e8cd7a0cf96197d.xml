@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 08:18:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3c1e94cbdb8013009e8cd7a0cf96197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_27359_safety_inspect_look_up_rule2.x_27359_safety.user</sys_name>
+        <sys_package display_value="Safety" source="x_27359_safety">43095e56db8013009e8cd7a0cf9619e0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Safety">43095e56db8013009e8cd7a0cf9619e0</sys_scope>
+        <sys_security_acl display_value="x_27359_safety_inspect_look_up_rule2">b01e94cbdb8013009e8cd7a0cf96197b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3c1e94cbdb8013009e8cd7a0cf96197d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 08:18:10</sys_updated_on>
+        <sys_user_role display_value="x_27359_safety.user" name="x_27359_safety.user">4f095296db8013009e8cd7a0cf961961</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
